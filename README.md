@@ -14,4 +14,4 @@
 * In this project was used: 
 > 📌 HTML: Forms: Label and Input, and divs for to separate each placement of the elements
 
-> 📌 CSS: Flex Content, Media Queries, Outline, Letter Spacing, and others selectors
+> 📌 CSS: Display, Flex Box, Media Queries, Outline, Letter Spacing, and others selectors
